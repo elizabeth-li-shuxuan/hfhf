@@ -25,4 +25,5 @@ Thanks to Xiaoxuan Fan
 
 
 ## How to set up fMRI experiment files
+...to the best of Elizabeth's knowledge.
 ![fmri_setup](fmri_setup.png)
